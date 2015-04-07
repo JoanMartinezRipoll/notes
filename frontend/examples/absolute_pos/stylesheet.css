@@ -1,0 +1,22 @@
+div {
+	height: 100px;
+	width: 100px;
+	border-radius: 5px;
+	border: 2px solid black;
+}
+
+#inner {
+    position: absolute;
+	height: 75px;
+	width: 75px;
+	background-color: #547980;
+	bottom: 3px;
+}
+
+#outer {
+    position: relative;
+	height: 300px;
+	width: 150px;
+	background-color: #45ADA8;
+	margin-left: 100px;
+}
